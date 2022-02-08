@@ -58,7 +58,8 @@ For your project update, you can start analyzing the features and creating visua
 > Please reach out to us with any comments or questions!
 
 - [Data Set (Kaggle)](https://www.kaggle.com/kumarajarshi/life-expectancy-who)
-
+- [Project Deliverables](https://csumb.instructure.com/courses/14887/assignments/142751?module_item_id=678524)
+- [Sample Steps (Classification)](https://docs.google.com/document/d/1KD5mKP_2AsPdtXb-Q5aoJvkkeNxK8iR3oXm4aE3z-fg/edit) - **[NOTE]** We are running a regression, not classification. We could potentially turn this into a classification project if we create categories for certain life expectancy values (such as low, med, high). This link also contains sample student projects for reference.
 
 [Return to Top](#table-of-contents)
 
