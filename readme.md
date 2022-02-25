@@ -6,6 +6,10 @@
 
 ---
 
+## **Video**: [Watch it on YouTube!](#https://youtu.be/pR06KVtDhz4)
+
+---
+
 ## **Table of Contents:**
 1. [Introduction](#introduction)
 1. [Selection of Data](#selection-of-data)
@@ -13,6 +17,7 @@
 1. [Results](#results)
 1. [Discussion](#discussion)
 1. [Summary](#summary)
+1. [References](#references)
 ---
 ---
 
@@ -94,5 +99,14 @@ Second, our best model (experiment) has an extremely high training rsquared valu
 
 For this project, our group performed a series of experiments in order to find the best predictors and linear regression model for the prediction of life expectancy. We found that feature engineering and inclusing of feature interactions are important in overcoming the inherent assumptions of a linear regression model through the inclusion of polynomial features. Starting with a baseline test RMSE score of 4.0 (while the target variable had an STD of 9.5), we were able to improve our model to produce a test RMSE of 1.82 and identify the most impactful predictors (included in the notebook). While we believe that we have met our original goals, based on the results, we also believe there is much room for improvement. We have identified areas of further research that we were unable to address within this project, such as improvements to our data preprocessing and model tuning stages. 
 
+## References
+
 ---
+
+Géron Aurélien. (2019). _Hands-on machine learning with scikit-learn, Keras, and tensorflow: Concepts, tools, and techniques to build Intelligent Systems_. O&#39;Reilly Media, Inc.
+
+VanderPlas, J. T. (2017). _Python Data Science Handbook: Essential Tools for working with data_. O&#39;Reilly Media, Inc.
+
+---
+
 [Return to Top](#table-of-contents)
