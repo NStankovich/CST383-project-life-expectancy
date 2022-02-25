@@ -6,7 +6,7 @@
 
 ---
 
-## **Video**: [Watch it on YouTube!](#https://youtu.be/pR06KVtDhz4)
+## **Video**: [Watch it on YouTube!](https://youtu.be/pR06KVtDhz4)
 
 ---
 
