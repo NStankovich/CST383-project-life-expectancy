@@ -32,7 +32,7 @@ We used the following publicly available Kaggle data set: [Life Expectancy (WHO)
 
 This dataset contains 22 features, including our target variable: 'life expectancy', with up to 2938 entries per feature.
 
-Initial inspection revealed that the data set had several issues including missing data and possibly bad data in the form of extreme outliers. We began by dropping features that we determined the be unecessary and imputing missing values. Through data exploration, we identified potential features that could be dropped (highly correlated features in the subset of predictors) and potential features that could be included (predictors highly correlated with our target variable).
+Initial inspection revealed that the data set had several issues including missing data and possibly bad data in the form of extreme outliers. We began by dropping features that we determined the be unnecessary and imputing missing values. Through data exploration, we identified potential features that could be dropped (highly correlated features in the subset of predictors) and potential features that could be included (predictors highly correlated with our target variable).
 
 In terms of feature engineering, we performed log transforms of the following predictors: percentage expenditure, gdp, hiv/aids and bmi. We replaced the original predictors with these feature engineered predictors in our third experiment. We did so after confirming that these transformed features were more correlated with the target variable than the original ones.
 
@@ -97,7 +97,7 @@ Second, our best model (experiment) has an extremely high training rsquared valu
 ## Summary
 ---
 
-For this project, our group performed a series of experiments in order to find the best predictors and linear regression model for the prediction of life expectancy. We found that feature engineering and inclusing of feature interactions are important in overcoming the inherent assumptions of a linear regression model through the inclusion of polynomial features. Starting with a baseline test RMSE score of 4.0 (while the target variable had an STD of 9.5), we were able to improve our model to produce a test RMSE of 1.82 and identify the most impactful predictors (included in the notebook). While we believe that we have met our original goals, based on the results, we also believe there is much room for improvement. We have identified areas of further research that we were unable to address within this project, such as improvements to our data preprocessing and model tuning stages. 
+For this project, our group performed a series of experiments in order to find the best predictors and linear regression model for the prediction of life expectancy. We found that feature engineering and inclusion of feature interactions are important in overcoming the inherent assumptions of a linear regression model through the inclusion of polynomial features. Starting with a baseline test RMSE score of 4.0 (while the target variable had an STD of 9.5), we were able to improve our model to produce a test RMSE of 1.82 and identify the most impactful predictors (included in the notebook). While we believe that we have met our original goals, based on the results, we also believe there is much room for improvement. We have identified areas of further research that we were unable to address within this project, such as improvements to our data preprocessing and model tuning stages. 
 
 ## References
 
