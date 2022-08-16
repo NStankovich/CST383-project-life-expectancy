@@ -23,7 +23,7 @@
 
 ## Introduction
 ---
-The purpose of our experiment was to identify the predictors and model that would provide the most accurate predictions of our target variable, life expectancy. We used linear regression as our supervised machine learning algorithm of choice and test RMSE as our measure of accuracy. As we progressed through our experiments, we attempted to further lower test RMSE through the use of forward feature selection and unsupervised learning in the form of polynomial features. 
+The purpose of our experiment was to identify the predictors and model that would provide the most accurate predictions of our target variable, life expectancy. We used linear regression as our supervised machine learning algorithm of choice and test RMSE as our measure of accuracy. As we progressed through our experiments, we attempted to further lower test RMSE through the use of forward feature selection and unsupervised learning using polynomial features. 
 
 ## Selection of Data
 ---
